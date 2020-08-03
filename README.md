@@ -1,2 +1,2 @@
-# estadistica
-Respositorio del curso de Estadística. 
+# Estadistica
+Respositorio del curso de Estadística
